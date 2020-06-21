@@ -27,7 +27,7 @@ A proposta é simples: criar elementos visuais para gerenciar repositórios (Fak
   # Instalando todas as depêndencias necessárias
   $ npm||yarn install
 
-  # Starting o backend da aplicação
+  # Starting o frontend da aplicação
   $ npm||yarn start
 ```
 
