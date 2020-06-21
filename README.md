@@ -12,12 +12,11 @@
   </a>
   </p>
 </h1>
-<p>
-Primeiro desafio em [ReactJS](https://pt-br.reactjs.org/ "ReactJS") da [RocketSeat](https://rocketseat.com.br/ "RocketSeat"), passado no bootcamp GoStack 12.
-**Frontend** Web para a **[API em NodeJS](https://github.com/rafaelsanzio/gostack-nodejs "API em NodeJS")**
 
-A proposta é simples: criar elementos visuais para gerenciar repositórios (Fakes), sendo possível adicionar e remover respositórios e dar likes ❤️ nos repositórios
-</p>
+Primeiro desafio em [ReactJS](https://pt-br.reactjs.org/ "ReactJS") da [RocketSeat](https://rocketseat.com.br/ "RocketSeat"), passado no bootcamp GoStack 12.
+**Frontend** (Web) para a **[API em NodeJS](https://github.com/rafaelsanzio/gostack-nodejs "API em NodeJS")**
+
+A proposta é simples: criar elementos visuais para gerenciar repositórios (Fakes), sendo possível adicionar e remover respositórios e dar likes nos repositórios
 
 ## Getting Started ▶️
 - **Passo 1**: git clone do projeto gostack-reactjs
