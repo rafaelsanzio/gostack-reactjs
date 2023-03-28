@@ -25,10 +25,10 @@ A proposta é simples: criar elementos visuais para gerenciar repositórios (Fak
   $ cd gostack-reactjs
 
   # Instalando todas as depêndencias necessárias
-  $ npm||yarn install
+  $ npm || yarn install
 
   # Starting o frontend da aplicação
-  $ npm||yarn start
+  $ npm || yarn start
 ```
 
 ## Conceitos 📕
